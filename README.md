@@ -1,2 +1,2 @@
 # cs411_private
-hello world
+hello
